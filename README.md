@@ -1,2 +1,2 @@
 # jienasya.github.io
-Landaing Page Portofolio
+Landing Page Portofolio
